@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcore-s2.a CMakeFiles/core-s2.dir/core-s2.cpp.o
+/usr/bin/ranlib libcore-s2.a
